@@ -10,3 +10,5 @@ class zaehler:
 
     def wert ( self ):
         return self.zaehlerstand
+    
+    
